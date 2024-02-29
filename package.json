@@ -1,6 +1,6 @@
 {
   "name": "is-ice-cream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Amazing lib to check if string contain your favorite ice cream flavor",
   "main": "lib/index.js",
   "exports": {
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/Dikey945/is-ice-cream/issues"
   },
-  "homepage": "https://github.com/Dikey945/is-ice-cream#readme"
+  "homepage": "https://github.com/Dikey945/is-ice-cream#readme",
+  "dependencies": {
+    "is-even": "^1.0.0",
+    "is-odd": "^3.0.1"
+  }
 }
