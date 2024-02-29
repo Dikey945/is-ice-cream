@@ -1,0 +1,27 @@
+{
+  "name": "is-ice-cream",
+  "version": "1.0.0",
+  "description": "Amazing lib to check if string contain your favorite ice cream",
+  "main": "lib/index.js",
+  "exports": {
+    "import": "./index.mjs",
+    "require": "./index.js"
+  },
+  "scripts": {
+    "test": "node ./tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dikey945/is-ice-cream.git"
+  },
+  "keywords": [
+    "ice",
+    "cream"
+  ],
+  "author": "Dikey945",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dikey945/is-ice-cream/issues"
+  },
+  "homepage": "https://github.com/Dikey945/is-ice-cream#readme"
+}
