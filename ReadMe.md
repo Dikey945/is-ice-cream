@@ -6,3 +6,13 @@
 
 ```bash
 npm install is-ice-cream
+```
+
+<h2>Usage</h2>
+
+```js
+const isIceCream = require('is-ice-cream');
+
+console.log(isIceCream('I love vanilla')); // true
+console.log(isIceCream('I prefer cake')); // false
+```

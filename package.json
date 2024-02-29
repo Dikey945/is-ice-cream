@@ -1,7 +1,7 @@
 {
   "name": "is-ice-cream",
   "version": "1.0.0",
-  "description": "Amazing lib to check if string contain your favorite ice cream",
+  "description": "Amazing lib to check if string contain your favorite ice cream flavor",
   "main": "lib/index.js",
   "exports": {
     "import": "./index.mjs",
